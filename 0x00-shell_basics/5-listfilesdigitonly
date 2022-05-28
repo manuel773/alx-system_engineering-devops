@@ -1,2 +1,3 @@
-ls -al
-ls -al
+#!/bin/bash
+ls -lan
+
